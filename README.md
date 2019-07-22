@@ -1,5 +1,5 @@
-# EDA-Amazon-Fine-Food-Reviews-Analysis
-#Data Source:https://www.kaggle.com/snap/amazon-fine-food-reviews 
+# EDA-Amazon-Fine-Food-Reviews-Analysis.
+#Data Source:https://www.kaggle.com/snap/amazon-fine-food-reviews.
 #Data has two format 1.).CSV 2.).sqlite  file, using .sqlite file for analysis.
 # used NLP techniques:-
 1.BoW
