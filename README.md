@@ -6,5 +6,5 @@
 2.tf-idf
 3.w2v
 4.avg-w2v
-5.avgw2v
+5.avgw2v.   
 #finally saved the cleaned data in .sqlite file
